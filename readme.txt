@@ -24,3 +24,5 @@ eureka.client.serviceUrl.defaultZone=http://localhost:1111/eureka/
 
 
 
+Ribbon请求服务地址：
+http://10.5.2.241:3333/add
